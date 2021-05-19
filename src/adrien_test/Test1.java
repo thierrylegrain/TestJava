@@ -11,10 +11,13 @@ public class Test1 {
 				System.out.println("Hello Adrien " + "saucisson");
 				break;
 			case 3:
-				System.out.println("Hello Adrien " + "olive");
+				System.out.println("Hello Adrien " + "olives");
 				break;
 			case 4:
 				System.out.println("Hello Adrien " + "fromage");
+				break;
+			case 5:
+				System.out.println("Hello Adrien " + "pizza");
 				break;
 			default:
 				System.out.println("Hello Adrien " + i);
