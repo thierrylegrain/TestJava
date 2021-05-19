@@ -13,6 +13,9 @@ public class Test1 {
 			case 3:
 				System.out.println("Hello Adrien " + "olive");
 				break;
+			case 4:
+				System.out.println("Hello Adrien " + "fromage");
+				break;
 			default:
 				System.out.println("Hello Adrien " + i);
 				break;
